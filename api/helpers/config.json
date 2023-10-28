@@ -1,0 +1,20 @@
+{
+  "secret": "TreoHealth@123",
+  "mailConfig": {
+    "host": "mail.incarta.cloud",
+    "port": 465,
+    "secure": true,
+    "auth": {
+      "user": "no-reply@treo.cloud",
+      "pass": "UD4rua6Z4paS6si"
+    }
+  },
+  "mailOptions": {
+    "from": "no-reply@treo.cloud",
+    "to": "",
+    "subject": "",
+    "text": "",
+    "html": "",
+    "attachments": []
+  }
+}
